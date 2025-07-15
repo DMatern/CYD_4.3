@@ -19,7 +19,7 @@ Basic Code to drive the CYD 4.3" Capacitive Touch display hardware
  	Touchscreen   = XPT2046 / PaulStoffergen
 	NeoPixel      = FastLED
 	WiFi          = WiFi.h  (arduino ESP32 core)
-	BlueTooth     = BLE 		(Arduino ESP COre) https://github.com/nkolban/esp32-snippets/blob/master/cpp_utils/tests/BLE%20Tests/SampleServer.cpp
+	BlueTooth     = BLE 	(Arduino ESP COre) https://github.com/nkolban/esp32-snippets/blob/master/cpp_utils/tests/BLE%20Tests/SampleServer.cpp
  	TF Card       = SD.h    (arduino core)
 	Flash Memory  = SPIMemory / Marzogh
 
