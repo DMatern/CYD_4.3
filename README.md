@@ -73,7 +73,7 @@ Basic Code to drive the CYD 4.3" Capacitive Touch display hardware
 
 ## 📘 Documentation  
 
-[Click here to open the full PDF](./ESP32-4827S043%20Specifications.pdf)
+[CYD Specifacations](./ESP32-4827S043%20Specifications.pdf)
 
-[Click here to open the full PDF](./Board%20Layout.pdf)
+[CYD Board Layout](./Board%20Layout.pdf)
 
