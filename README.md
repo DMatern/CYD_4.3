@@ -72,7 +72,8 @@ Basic Code to drive the CYD 4.3" Capacitive Touch display hardware
 	GPIO 48	LCD_R1
 
 ## 📘 Documentation  
-[Click here to open the full PDF](./ESP32-4827S043 Specifications.pdf)
 
-[Click here to open the full PDF](./Board Layout.pdf)
+[Click here to open the full PDF](./ESP32-4827S043%20Specifications.pdf)
+
+[Click here to open the full PDF](./Board%20Layout.pdf)
 
