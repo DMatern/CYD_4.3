@@ -3,25 +3,25 @@ Basic Code to drive the CYD 4.3" Capacitive Touch display hardware
 
 # Key Features and Specifications:
 
-	Microcontroller: 	ESP32-S3, a dual-core 32-bit processor with Wi-Fi and Bluetooth capabilities.
-	Display: 					4.3-inch IPS TFT LCD with 800x480 resolution.
-	Touch: 						Capacitive touchscreen for user interaction.
-	Storage: 					16MB Flash and 8MB PSRAM.
-	Connectivity: 		Supports Wi-Fi 802.11b/g/n/e/i and Bluetooth 4.2.
-	Interfaces: 			UART, SPI, I2C, PWM, ADC, DAC, and more.
-	Other Features: 	TF card slot, USB Type-C port. 
+	Microcontroller:ESP32-S3, a dual-core 32-bit processor with Wi-Fi and Bluetooth capabilities.
+	Display: 	4.3-inch IPS TFT LCD with 800x480 resolution.
+	Touch: 		Capacitive touchscreen for user interaction.
+	Storage: 	16MB Flash and 8MB PSRAM.
+	Connectivity: 	Supports Wi-Fi 802.11b/g/n/e/i and Bluetooth 4.2.
+	Interfaces: 	UART, SPI, I2C, PWM, ADC, DAC, and more.
+	Other Features: TF card slot, USB Type-C port. 
 
 # Drivers
 
 > General
 
-	4Display			= TFT_eSPI / Bodmer https://github.com/Bodmer/TFT_eSPI
- 	Touchscreen   = XPT2046 / PaulStoffergen
-	NeoPixel      = FastLED
-	WiFi          = WiFi.h  (arduino ESP32 core)
-	BlueTooth     = BLE 	(Arduino ESP COre) https://github.com/nkolban/esp32-snippets/blob/master/cpp_utils/tests/BLE%20Tests/SampleServer.cpp
- 	TF Card       = SD.h    (arduino core)
-	Flash Memory  = SPIMemory / Marzogh
+	4Display	= TFT_eSPI 	https://github.com/Bodmer/TFT_eSPI
+ 	Touchscreen   	= XPT2046 	PaulStoffergen
+	NeoPixel      	= FastLED
+	WiFi          	= WiFi.h  	(arduino ESP32 core)
+	BlueTooth     	= BLE 		(Arduino ESP COre) https://github.com/nkolban/esp32-snippets/blob/master/cpp_utils/tests/BLE%20Tests/SampleServer.cpp
+ 	TF Card       	= SD.h    	(arduino core)
+	Flash Memory  	= SPIMemory / Marzogh
 
 > Connectors
 	
